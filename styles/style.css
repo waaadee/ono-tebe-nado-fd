@@ -40,6 +40,11 @@ body {
   width: 148px;
 }
 
+.header__logo-image {
+  display: block;
+  height: 105px;
+}
+
 .address {
   display: flex;
   flex-direction: column;
